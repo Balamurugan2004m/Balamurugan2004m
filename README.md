@@ -1,21 +1,13 @@
-## Hi there 👋 It's me BharaniDharan P
+## Hi there 👋 It's me Balamurugan S
 
 Full stack developer studying in RPSIT College
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Here's my [portfolio](https://willowy-speculoos-a79800.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaa7bLmm4JKCOLrNJzjMvg_Pel8vfvUmTw3xNUYTME58uEuCnyzkgeKGBt8_aem_nG15tkmoHIF_WLN8sSud6Q)                                                
+- 🔭 Here's my [portfolio]()                                                
 
 
 
 - 🌱 I’m currently learning Front end developer
-
-
-
-- 👯 I’m looking to collaborate on experience person
-
-
-
-- 🤔 I’m looking for help with Placements in FAANG
 
 
 
@@ -28,19 +20,7 @@ Full stack developer studying in RPSIT College
 
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
 
-- 😄 Pronouns: Techie
 
-
-
-- ⚡ Fun fact: I know Japanese.
-
-
-
-- ![YouTube Channel Views](https://youtube.com/@gamingwithttspeed6042?si=5gpKH7KrR_TSUcI1)
-
-
-
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
